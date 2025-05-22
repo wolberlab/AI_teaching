@@ -13,7 +13,7 @@ Undergraduate Pharmacy Students (no prior ML experience required)
 
 ## 🧠 Course Overview
 
-This 2-day practical course introduces fundamental concepts of Machine Learning (ML) and Deep Learning (DL) applied to **in silico virtual screening (VS)** for drug discovery.
+This 1-1.5 day(s) practical course introduces fundamental concepts of Machine Learning (ML) and Deep Learning (DL) applied to **in silico virtual screening (VS)** for drug discovery.
 
 Students will gain hands-on experience using **Jupyter Notebooks** on **JupyterHub** with a complete ML pipeline (from data → model → screening). By the end, students will:
 
