@@ -40,8 +40,8 @@ Students will gain hands-on experience using **Jupyter Notebooks** on **JupyterH
 - Data handling with `pandas`
 - Visualization and chemical space analysis (PCA, clustering)
 - Feature generation (ECFP) for datasets:
-  - **PPAR-γ** (fat metabolism)
-  - **A2A** (caffeine receptors)
+  - **PPAR-γ** (antidiabetic target)
+  - **Adenosine A2a receptor** (modulating dopamine signaling)
 
 ---
 
